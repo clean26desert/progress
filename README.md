@@ -1,1 +1,1 @@
-progress3-6s
+progress3-6f
